@@ -6,3 +6,5 @@ Basecamp: rittikiat
 
 
 this is commit form remote
+
+this is edit from local
